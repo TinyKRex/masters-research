@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "Code and documentation for embedding-based metagenomic enzyme screening"
+message: "If you refer to this work, please cite the thesis below."
+type: software
+authors:
+  - family-names: Kang
+    given-names: Yunkyeong
+    affiliation: "Korea Advanced Institute of Science and Technology; Korea Research Institute of Bioscience and Biotechnology"
+repository-code: "https://github.com/TinyKRex/masters-research"
+license: MIT
+# doi: 10.5281/zenodo.XXXXXXX   # fill in after the first Zenodo-archived release
+references:
+  - type: thesis
+    title: "Enhancing metagenomic enzyme screening efficiency through an embedding-based iterative learning strategy"
+    authors:
+      - family-names: Kang
+        given-names: Yunkyeong
+    thesis-type: "Master's thesis"
+    institution:
+      name: "Korea Advanced Institute of Science and Technology"
+    year: 2027

@@ -1,0 +1,27 @@
+# data — never commit
+*.fasta
+*.fa
+*.faa
+*.fna
+*.fastq
+*.gz
+*.npy
+*.npz
+*.pt
+*.pth
+*.pkl
+*.h5
+*.sqlite
+*.db
+data/
+raw/
+embeddings/
+# secrets
+.env
+*.crt
+*.pem
+*.key
+# notebooks keep outputs; strip before committing
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
