@@ -11,7 +11,7 @@ license: MIT
 doi: 10.5281/zenodo.24149119
 references:
   - type: thesis
-    title: "Enhancing metagenomic enzyme screening efficiency through an embedding-based iterative learning strategy"
+    title: "Enhancing Metagenomic Enzyme Screening Efficiency through Embedding-based Iterative Learning Strategy"
     authors:
       - family-names: Kang
         given-names: Yunkyeong

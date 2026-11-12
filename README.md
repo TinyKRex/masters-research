@@ -116,8 +116,8 @@ on other data.
 
 ## Citing
 
-> Kang, Y. (2027). *Enhancing metagenomic enzyme screening efficiency through an embedding-based
-> iterative learning strategy* [M.S. thesis]. Korea Advanced Institute of Science and Technology.
+> Kang, Y. (2027). *Enhancing Metagenomic Enzyme Screening Efficiency through Embedding-based
+> Iterative Learning Strategy* [M.S. thesis]. Korea Advanced Institute of Science and Technology.
 
 This repository is archived at **[10.5281/zenodo.24149119](https://doi.org/10.5281/zenodo.24149119)** — a concept DOI that always resolves to the
 latest version.
