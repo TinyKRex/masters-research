@@ -2,6 +2,7 @@
 
 **Yunkyeong Kang** — M.S. Engineering Biology, KAIST · Synthetic Biology Research Center, KRIBB
 [tinykrex.github.io](https://tinykrex.github.io/) · 2024–2027
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24149119.svg)](https://doi.org/10.5281/zenodo.24149119)
 
 Four projects from my master's work. Each folder has a plain-language summary, the core code,
 and the numbers — including the ones that did not come out the way I wanted.
@@ -114,7 +115,8 @@ on other data.
 > Kang, Y. (2027). *Enhancing metagenomic enzyme screening efficiency through an embedding-based
 > iterative learning strategy* [M.S. thesis]. Korea Advanced Institute of Science and Technology.
 
-<!-- Zenodo DOI goes here once the first release is archived -->
+This repository is archived at **[10.5281/zenodo.24149119](https://doi.org/10.5281/zenodo.24149119)** — a concept DOI that always resolves to the
+latest version.
 
 ## Licence
 

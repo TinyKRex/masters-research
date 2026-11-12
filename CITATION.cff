@@ -8,7 +8,7 @@ authors:
     affiliation: "Korea Advanced Institute of Science and Technology; Korea Research Institute of Bioscience and Biotechnology"
 repository-code: "https://github.com/TinyKRex/masters-research"
 license: MIT
-# doi: 10.5281/zenodo.XXXXXXX   # fill in after the first Zenodo-archived release
+doi: 10.5281/zenodo.24149119
 references:
   - type: thesis
     title: "Enhancing metagenomic enzyme screening efficiency through an embedding-based iterative learning strategy"
