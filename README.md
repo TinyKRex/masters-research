@@ -1,7 +1,7 @@
 # Finding useful enzymes with fewer experiments
 
-**Yunkyeong Kang** — M.S. Engineering Biology, KAIST · Synthetic Biology Research Center, KRIBB
-[tinykrex.github.io](https://tinykrex.github.io/) · 2024–2027
+**Yunkyeong Kang** — M.S. Engineering Biology, KAIST · Synthetic Biology and Bioengineering
+Research Center, KRIBB · [tinykrex.github.io](https://tinykrex.github.io/) · 2025–2027
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24149119.svg)](https://doi.org/10.5281/zenodo.24149119)
 
 Four projects from my master's work. Each folder has a plain-language summary, the core code,
@@ -27,7 +27,7 @@ cost of a confirmed enzyme by two thirds. Everything below is in service of movi
 |---|---|
 | **Scale** | Ranked 5.3 M metagenomic genes using a protein language model, then tested 855 of them in the lab |
 | **Platform** | Automated cell-free expression and assay on a biofoundry; in-house reagent at **2.5× the yield** of the commercial kit |
-| **Result** | A ranking model that concentrates working enzymes **8.6× more densely** than random into the top 5% of its list |
+| **Result** | **43 screening hits (5.0%)** from 855 candidates; **17** confirmed on replication, and a ranking model that concentrates them **8.6× more densely** than random into its top 5% |
 | **Validation** | A 380-candidate prospective trial comparing the model head-to-head against the standard method, with the predicted outcome recorded before the experiment |
 
 The part I would defend in an interview is the last row. A model scored on its own training data
@@ -61,14 +61,18 @@ just sequence resemblance — the assumption the whole screening strategy rests 
 on frozen embeddings matched or beat models trained end-to-end on sequence, at a fraction of the
 compute.
 
-Related result (KMB 2025, collaborative): embeddings normally discarded during pooling carry
+Related result (KMB 2025, second of six authors): embeddings normally discarded during pooling carry
 whole-protein information, improving bacterial essential-gene prediction by **up to 17%**.
 
 ### [03 · Moonlighting enzyme discovery — MetaForge / IDEA-B](03_moonlighting-enzyme-discovery/)
-*Competition project, funded at KRIBB · team of 6, my role: candidate selection and validation design*
+*Competition finalist, funded at KRIBB · student team of 4 · my role: candidate selection and
+validation design*
 
 Some proteins do two unrelated jobs, and they are over-represented among proteins implicated in
 **drug side effects** — a commercial risk that single-function models cannot see.
+
+Reached the final as **one of 15 graduate-division teams out of 104 applicants from 37
+institutions** in Korea’s first national synthetic biology competition.
 
 My contribution was scope control. Of 14 enzyme–substrate systems, control experiments showed
 **half were unmeasurable** with our biosensor. Cutting them before screening started is what let

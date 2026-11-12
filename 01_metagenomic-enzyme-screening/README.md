@@ -1,7 +1,7 @@
 # Metagenomic enzyme screening with an iterative learning loop
 
-*M.S. thesis · KAIST Graduate School of Engineering Biology · KRIBB Synthetic Biology Research
-Center · 2024–2027*
+*M.S. thesis · KAIST Graduate School of Engineering Biology · KRIBB Synthetic Biology and
+Bioengineering Research Center · 2025–2027*
 
 **In one line.** Ranked 5.3 million environmental genes with a protein language model, tested
 855 of them on an automated biofoundry, and used the results — failures included — to train a
@@ -95,6 +95,13 @@ and publishing the result when it disappoints. This project is built to report i
 
 Every active sequence falls in a different cluster, so the positives are not one family
 rediscovered seventeen times.
+
+> **On two different hit counts.** The primary screen called **43 hits (5.0% of 855)** at
+> Z ≥ 3 against each plate’s own background, 16 of them active on two or more substrates. That
+> is a single-replicate number, so every one of those is a statistical outlier until repeated.
+> The **17** used for modelling are what survived replicate revalidation and the merging of
+> duplicate sequences. Both numbers are real and they answer different questions: 43 is the
+> throughput of the screen, 17 is what you can train on.
 
 ### Selector and evaluation
 
